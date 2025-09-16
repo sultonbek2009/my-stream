@@ -10,19 +10,19 @@ export const navigation_items = [
 export const following_items = [
   {
     id: 1,
-    username: "joni",
+    username: "joniy",
     avatar: "https://idkomunitas.com/upload/photos/d-avatar.jpg?cache=0",
     followingBy: 25,
   },
   {
     id: 2,
-    username: "diko",
+    username: "dikoo",
     avatar: "https://idkomunitas.com/upload/photos/d-avatar.jpg?cache=0",
     followingBy: 30,
   },
   {
     id: 3,
-    username: "alyosh",
+    username: "alyossh",
     avatar: "https://idkomunitas.com/upload/photos/d-avatar.jpg?cache=0",
     followingBy: 12,
   },
